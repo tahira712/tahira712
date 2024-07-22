@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tahira712
-- 👀 I’m interested in learning python
+- 👀 I’m interested in learning python,php,javaScript
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me huseynovatahire2004@gmail.com
